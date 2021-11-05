@@ -1,3 +1,9 @@
+---
+title: Home
+layout: template
+filename: index
+--- 
+
 ## NuR docs
 Welcome to NuR docs
 
