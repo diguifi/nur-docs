@@ -1,3 +1,9 @@
+---
+title: Privacy Policy
+layout: template
+filename: privacy
+--- 
+
 # Privacy Policy
 Last updated: November 05, 2021
 
