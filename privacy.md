@@ -4,7 +4,7 @@ filename: privacy
 --- 
 
 # Privacy Policy
-Last updated: November 05, 2021
+Last updated: January 14, 2022
 
 This Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your information when You use the Service and tells You about Your privacy rights and how the law protects You.
 
@@ -31,13 +31,16 @@ For the purposes of this Privacy Policy:
 
 # Collecting and Using Your Personal Data
 ## Types of Data Collected
-NuR **does not** collect any type of data.
+Observing and respecting Google Privacy Policy, the game NuR **does not** collect any type of data. However, the game has an integration with Google's API for Google Play Services, in order to perform the following actions:
+- Send user's highscore to Google Play Services leaderboard
+- Unlock various achievements registering changes on Google Play Services for users
 
 ## Google services
 We may employ third party companies and individuals to facilitate our Service, to provide the Service on our behalf, to perform Service-related services or to assist us in analyzing how our Service is used.
 
 To know more about how they use your data, please check their privacy policies:
 - [Google Play Store](https://policies.google.com/privacy)
+- [Google Play Services](https://developers.google.com/games/services/terms#privacy-and-data-protection)
 
 # Children's Privacy
 Our Service does not address anyone under the age of 13. We do not knowingly collect personally identifiable information from anyone under the age of 13. If You are a parent or guardian and You are aware that Your child has provided Us with Personal Data, please contact Us. If We become aware that We have collected Personal Data from anyone under the age of 13 without verification of parental consent, We take steps to remove that information from Our servers.
