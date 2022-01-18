@@ -4,7 +4,7 @@ filename: privacy
 --- 
 
 # Privacy Policy
-Last updated: January 14, 2022
+Last updated: January 17, 2022
 
 This Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your information when You use the Service and tells You about Your privacy rights and how the law protects You.
 
@@ -34,6 +34,14 @@ For the purposes of this Privacy Policy:
 Observing and respecting Google Privacy Policy, the game NuR **does not** collect any type of data. However, the game has an integration with Google's API for Google Play Services, in order to perform the following actions:
 - Send user's highscore to Google Play Services leaderboard
 - Unlock various achievements registering changes on Google Play Services for users
+
+To do so, we need to use these **Non Sensitive Scopes**:
+![scopes](https://user-images.githubusercontent.com/31022286/149861715-6aedef11-fbba-411d-82c6-c0099d9cae5b.png)
+
+To better understand, here's how each scope works:
+- `/auth/games`: Useful for manipulating your Google Play Games account, positioning you the rank, awarding you achievements and xp
+- `/auth/games_lite`: Same as the previous scope, but for lite versions
+- `/auth/drive.appdata`: Useful for saving game data on the user's Google Drive. Is not yet implemented, but we plan to add the cloud storage in the future, to avoid data loss if the user happens to use a different device.
 
 ## Google services
 We may employ third party companies and individuals to facilitate our Service, to provide the Service on our behalf, to perform Service-related services or to assist us in analyzing how our Service is used.
